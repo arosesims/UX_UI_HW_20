@@ -1,0 +1,145 @@
+body {
+    font-family: "Lato" !important;
+    color: #18403d !important;
+}
+
+/* Text Styles */
+p {
+    font-size: 16pt !important;
+    font-weight: 400 !important;
+}
+
+h5 {
+    font-size: 17pt !important;
+    font-weight: 700 !important;
+    font-style: italic !important;
+}
+
+h3 {
+    font-size: 20pt !important;
+    font-weight: 700 !important;
+    font-style: italic !important;
+}
+
+h2 {
+    font-size: 30pt !important;
+    font-weight: 700 !important;
+    color: #86c47a !important;
+    text-transform: uppercase !important;
+    line-height: 95% !important;
+}
+
+h1 {
+    font-size: 50pt;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 85%;
+}
+
+.nav-link {
+    font-family: "Lato" !important;
+    color: #18403d !important;
+
+}
+
+.navbar-brand {
+    justify-content: center !important;
+    margin-left: 60px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 60px !important;
+}
+
+.jumbotron {
+    background-image: url("../images/HonestEatsHeader.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 60px;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.jumboCopy {
+    text-align: right;
+}
+
+.sideNav {
+    text-align: right !important;
+    align-content: right !important;
+    margin-left: 0px;
+}
+
+
+.headerOne {
+    min-width: 500px;
+    text-align: center;
+    margin: 80px;
+}
+
+.bodyContainer {
+    padding-right: 10%;
+
+}
+
+.contentBlock {
+    margin-bottom: 80px;
+}
+
+.numbers {
+    text-align: center;
+}
+
+.inlineBlock {
+    display: inline-block;
+}
+
+.images {
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+.outline {
+    border: 1px solid #D9D9D9;
+
+}
+
+.moreprojects {
+    margin: 60px;
+}
+
+.headingOther {
+    padding-left: 5%;
+}
+
+.card {
+    border-radius: 26px !important;
+}
+
+.contentCenter {
+    align-items: center;
+}
+
+
+.btn {
+    font-family: Lato !important;
+    font-size: 16px !important;
+    overflow: hidden !important;
+    color: white !important;
+    text-align: center !important;
+    background-color: #18403d !important;
+    border: #18403d !important;
+    border-radius: 5px !important;
+    width: 150px !important;
+    height: 40px !important;
+    cursor: pointer !important;
+}
+
+.footer {
+    padding: 60px;
+    background-color: #D9D9D9;
+}
